@@ -1,0 +1,10 @@
+{
+  "name": "Vivian Class Schedule",
+  "description": "A clean, modern class schedule application with recurrence, PDF export, and reminders.",
+  "requestFramePermissions": [
+    "notifications"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
